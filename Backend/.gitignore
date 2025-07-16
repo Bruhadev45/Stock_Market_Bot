@@ -50,3 +50,6 @@ coverage.xml
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+#database
+chroma_db
