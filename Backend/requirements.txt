@@ -1,0 +1,9 @@
+yfinance
+gradio
+langchain
+langgraph
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+openai

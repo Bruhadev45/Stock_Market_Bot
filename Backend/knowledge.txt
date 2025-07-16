@@ -1,0 +1,108 @@
+What is a stock?
+A stock (also called equity) is a type of security that gives the holder ownership in a corporation and a claim to part of its assets and profits.
+
+What is a stock symbol?
+A stock symbol (ticker symbol) is a unique series of letters assigned to a security for trading purposes.
+
+What is a dividend?
+A dividend is a payment a company makes to its shareholders, typically from profits.
+
+What is the P/E ratio?
+The price-to-earnings (P/E) ratio is calculated as the share price divided by the earnings per share (EPS). It helps investors evaluate if a stock is overvalued or undervalued.
+
+What is a portfolio?
+A portfolio is a collection of financial investments such as stocks, bonds, and cash.
+
+What is diversification?
+Diversification is a strategy that mixes different investments to reduce overall risk.
+
+What does it mean to buy or sell a stock?
+Buying means purchasing shares to become a part-owner of the company. Selling means giving up ownership in exchange for cash.
+
+What is volume in stocks?
+Volume is the number of shares traded during a specific time period.
+
+What does a stock’s price change mean?
+Price change is the difference between the current price and a previous price, such as the previous day’s close.
+
+What is a stock trading assistant?
+A stock trading assistant is a tool or chatbot that helps users check prices, manage portfolios, and answer trading questions. It can use real or mock data.
+
+What is a buy/sell/hold recommendation?
+This is an analyst or system’s opinion on whether to buy, sell, or keep holding a stock.
+
+What is a risk level in investing?
+Risk level describes the chance of losing money or not getting the expected return.
+
+Is this trading bot using real money?
+No. This bot is for demonstration only and uses mock data.
+
+What is technical analysis?
+Technical analysis uses historical price and volume data to predict future stock price movements using charts and indicators.
+
+What are moving averages?
+A moving average (MA) smooths out price data by creating a constantly updated average price. Common types include the simple moving average (SMA) and the exponential moving average (EMA).
+
+What is the Relative Strength Index (RSI)?
+RSI is a momentum indicator that measures the speed and change of price movements. Values above 70 typically indicate an overbought condition; below 30 indicate oversold.
+
+What is MACD?
+MACD stands for Moving Average Convergence Divergence. It’s a trend-following momentum indicator that shows the relationship between two moving averages.
+
+What is a candlestick chart?
+A candlestick chart is a financial chart used to describe price movements of a security, derivative, or currency. Each candlestick shows open, high, low, and close prices for a period.
+
+What are support and resistance levels?
+Support is a price level where a stock tends to stop falling and bounce back up. Resistance is where a stock tends to stop rising and may fall back.
+
+What is fundamental analysis?
+Fundamental analysis evaluates a company’s financial statements, health, competition, market, and potential for growth.
+
+What is an earnings report?
+An earnings report is a company’s quarterly or annual statement of its income, expenses, and profit. It can affect the stock price.
+
+What is market capitalization?
+Market capitalization (market cap) is the total value of a company’s outstanding shares, calculated as share price times total shares.
+
+What is a blue-chip stock?
+A blue-chip stock refers to shares in large, well-established, financially sound companies with a history of reliable performance.
+
+What is insider trading?
+Insider trading involves buying or selling a publicly traded company’s stock by someone who has non-public, material information about that company.
+
+What are IPO and secondary offering?
+An IPO (Initial Public Offering) is when a company offers shares to the public for the first time. A secondary offering is when existing shareholders sell more shares after the IPO.
+
+What is a stop-loss order?
+A stop-loss order is an order to sell a security when it reaches a certain price, used to limit losses.
+
+What is after-hours trading?
+After-hours trading refers to buying and selling securities outside of regular trading hours, usually via electronic markets.
+
+Where can I read stock market news?
+Popular sources include Bloomberg, Reuters, CNBC, Yahoo Finance, and official stock exchange websites.
+
+What is a bullish or bearish trend?
+A bullish trend is when stock prices are rising or expected to rise. A bearish trend is when prices are falling or expected to fall.
+
+What is a dividend yield?
+Dividend yield is a financial ratio showing how much a company pays in dividends each year relative to its stock price.
+
+What is a sector?
+A sector is a group of companies that operate in the same part of the economy, such as technology, healthcare, or finance.
+
+What is paper trading?
+Paper trading is practicing stock trading without using real money.
+
+What is leverage in trading?
+Leverage means borrowing funds to increase the potential return of an investment, but it also increases potential risk and losses.
+
+What are ETFs?
+An ETF (Exchange Traded Fund) is a type of investment fund that holds a collection of assets and is traded on stock exchanges, like a stock.
+
+What is a margin call?
+A margin call happens when an investor’s account value falls below the broker’s required amount, requiring them to deposit more money or sell assets.
+
+What is a bid-ask spread?
+The bid-ask spread is the difference between the highest price a buyer is willing to pay for a stock and the lowest price a seller will accept.
+

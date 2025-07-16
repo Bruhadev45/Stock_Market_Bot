@@ -1,0 +1,14 @@
+body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+  box-sizing: border-box;
+  /* Use Inter, fallback to Segoe UI/Arial if not loaded */
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg, #a0c0ff 0%, #b993e7 40%, #f5f6fa 100%);
+}
+
+* {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif !important;
+}
